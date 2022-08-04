@@ -5,6 +5,7 @@ https://bwg.ylx.me/
 
 预先准备
 centos：
+
 ```bash
 yum install ca-certificates wget -y && update-ca-trust force-enable
 ```
