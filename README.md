@@ -1,7 +1,4 @@
 # Linux-NetSpeed
-```
-搬瓦工在线库存查询
-https://bwg.ylx.me/
 
 预先准备
 centos：
