@@ -3,7 +3,7 @@
 > 甲骨文的话记得卸载
 
 ```bash
-apt-get purge netfilter-persistent
+apt-get purge netfilter-persistent -y
 ```
 
 预先准备
