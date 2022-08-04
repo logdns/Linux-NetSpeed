@@ -1,5 +1,11 @@
 # Linux-NetSpeed
 
+> 甲骨文的话记得卸载
+
+```bash
+apt-get purge netfilter-persistent
+```
+
 预先准备
 centos：
 
